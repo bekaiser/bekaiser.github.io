@@ -12,6 +12,7 @@ h1 {
 p {
    font-size: 25px;
    font-family:Arial, sans-serif;
+   text-align:center; 
 } 
 
 a {
@@ -20,3 +21,11 @@ a {
     font-family:Arial, sans-serif;
 } 
 
+img{
+    width:150px;
+    height:150px;
+}    
+
+div{ 
+    display: inline-block;
+}    
