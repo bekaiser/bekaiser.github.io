@@ -1,13 +1,13 @@
 
-body {
+/* body {
     background-color: #dedede;
-} 
+} */
 
-h1 {
+/* h1 {
     text-align: center;
     font-family:Arial, sans-serif;
     font-size: 60px;
-} 
+} */
 
 p {
    font-size: 25px;
@@ -15,11 +15,11 @@ p {
    text-align:center; 
 } 
 
-a {
+/* a {
     color: #000;
     text-decoration: none;
     font-family:Arial, sans-serif;
-} 
+} */
 
 img{
     width:150px;
